@@ -12,4 +12,9 @@ public class Employee {
 		System.out.println("Viraj Removed");
 		
 	}
+	
+	public void deleteEmployee()
+	{
+		System.out.println("Employee deleted");
+	}
 }
