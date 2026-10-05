@@ -10,5 +10,6 @@ public class Employee {
 	public void removeEmployee()
 	{
 		System.out.println("Viraj Removed");
+		
 	}
 }
