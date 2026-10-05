@@ -17,4 +17,9 @@ public class Employee {
 	{
 		System.out.println("Employee deleted");
 	}
+
+	public void updateEmployee()
+	{
+		System.out.println("Employee updated");
+	}
 }
