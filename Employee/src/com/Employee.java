@@ -22,4 +22,9 @@ public class Employee {
 	{
 		System.out.println("Employee updated");
 	}
+
+	public void mergeEmployee()
+	{
+		System.out.println("Employee merged");
+	}
 }
